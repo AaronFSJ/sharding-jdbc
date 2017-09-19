@@ -1,2 +1,2 @@
 # sharding-jdbc
-Sharding-JDBC https://github.com/shardingjdbc
+Sharding-jdbc transfer to new repository: https://github.com/shardingjdbc
